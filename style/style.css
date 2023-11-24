@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: brown;
+}
+
+canvas{
+    background: greenyellow;
+    background: url("../motivator.png") center/cover no-repeat;
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    color: #2C5364;
+    text-align: center;
+    font-family: monospace;
+    margin: 50px;
+}
+
